@@ -1,1 +1,1 @@
-# markeing_insights
+# marketing_insights
